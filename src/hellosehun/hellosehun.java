@@ -7,4 +7,3 @@ public class hellosehun {
 		System.out.println("sehun ni hao miaowu~");
 	}
 
-}
